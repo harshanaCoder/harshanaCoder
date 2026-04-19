@@ -71,13 +71,13 @@ DevOps      → Docker, CI/CD, Cloud
 <summary>▶ Run: show_projects</summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshanaCoder&repo=ai-agent-portfolio&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshanaCoder&repo=cableguard&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshanaCoder&repo=cableguard-iot-monitoringsystem&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshanaCoder&repo=smart-led-star-esp32-wled&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshanaCoder&repo=elevatesafe&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshanaCoder&repo=dolphin-gym-system&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshanaCoder&repo=ElevateSafe&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshanaCoder&repo=Dolphin-Gym-Management-System &theme=tokyonight" />
 </p>
 
 </details>
